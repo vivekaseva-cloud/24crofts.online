@@ -1,0 +1,8 @@
+{
+  "name": "Remix 24crofts.com — Cinema 24 Crafts Talent \u0026 Production Platform",
+  "description": "Matrimonial-style casting and crew directory for the 24 crafts of cinema with admin-verified contact protection, unique profile IDs, movie teasers, and production house portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

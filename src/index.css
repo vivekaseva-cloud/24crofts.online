@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', 'Noto Sans Telugu', 'Noto Sans Devanagari', sans-serif;
+    background-color: #090A0F;
+    color: #F4F4F6;
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: 'Outfit', 'Noto Sans Telugu', 'Noto Sans Devanagari', sans-serif;
+  }
+
+  .font-mono, code {
+    font-family: 'JetBrains Mono', 'Noto Sans Telugu', 'Noto Sans Devanagari', monospace;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
